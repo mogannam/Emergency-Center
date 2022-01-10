@@ -70,5 +70,3 @@ https://www.nytimes.com/wirecutter/reviews/emergency-preparedness/ <br/>
 If you have any questions or issues please create issue here:<br/>
 https://github.com/flowingcityloy/Emergency-Center/issues  
 
-
-Thank you!
