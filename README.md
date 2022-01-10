@@ -47,7 +47,6 @@ The following demonstrates the web application's appearance and functionality:
 <img src="./public/assets/images/emergency-center-usage.gif" width="400" height="" />
 
 
-
 ## Websites
 [Repository](https://github.com/flowingcityloy/Emergency-Center)<br />
 [Live site](https://emergency-center.herokuapp.com/)
